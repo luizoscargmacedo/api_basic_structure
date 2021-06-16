@@ -1,0 +1,33 @@
+{
+    "customerWallets": {
+        "data": [
+            {
+                "id": "78jut87g39jk",
+                "name": "Client 28",
+                "cellphone": "(11)(9898)",
+                "email": "test11@email.com.br",
+                "occupation": "Bus Driver",
+                "state": "MG",
+                "createdAt": "2020-09-11T10:33:48.969Z"
+            },
+            {
+                "id": "79jut87hj990kl",
+                "name": "Client 33",
+                "cellphone": "(11)(9898)",
+                "email": "test17@email.com.br",
+                "occupation": "Manager",
+                "state": "MG",
+                "createdAt": "2019-04-12T14:32:22.659Z"
+            },
+            {
+                "id": "hg456gt8kg3",
+                "name": "Client 45",
+                "cellphone": "(11)(9898)",
+                "email": "test14@email.com.br",
+                "occupation": "Student",
+                "state": "MG",
+                "createdAt": "2020-08-14T13:00:56.679Z"
+            }
+        ]
+    }
+}
